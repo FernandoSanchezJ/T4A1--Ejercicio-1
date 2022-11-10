@@ -10,4 +10,5 @@
 	Múltiplo: 3
 	Quiero llegar hasta: 20
 	Resultado: 3, 6, 9, 12, 15, 18
-## Solución:
+
+https://github.com/FernandoSanchezJ/T4A1--Ejercicio-1/blob/main/T4A1.zip
